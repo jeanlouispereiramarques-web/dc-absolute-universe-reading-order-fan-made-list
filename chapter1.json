@@ -461,22 +461,45 @@
       "checked": false,
       "added_ts": 1765162190838,
       "moved_to_all_ts": 1765964793872
-    }
-  ],
-  "new_chapters": [
+    },
     {
       "title": "Absolute Batman (2024-) #15",
       "url": "https://readcomicsonline.ru/comic/absolute-batman-2024/15",
       "date": "10 Dec. 2025",
       "checked": false,
-      "added_ts": 1765964793872
+      "added_ts": 1765964793872,
+      "moved_to_all_ts": 1767124108513
     },
     {
       "title": "Absolute Flash (2025-) #10",
       "url": "https://readcomicsonline.ru/comic/absolute-flash-2025/10",
       "date": "17 Dec. 2025",
       "checked": false,
-      "added_ts": 1765964793872
+      "added_ts": 1765964793872,
+      "moved_to_all_ts": 1767124108513
+    }
+  ],
+  "new_chapters": [
+    {
+      "title": "Absolute Wonder Woman (2024-) #15",
+      "url": "https://readcomicsonline.ru/comic/absolute-wonder-woman-2024/15",
+      "date": "24 Dec. 2025",
+      "checked": false,
+      "added_ts": 1767124108513
+    },
+    {
+      "title": "Absolute Superman (2024-) #14",
+      "url": "https://readcomicsonline.ru/comic/absolute-superman-2024/14",
+      "date": "24 Dec. 2025",
+      "checked": false,
+      "added_ts": 1767124108513
+    },
+    {
+      "title": "Absolute Martian Manhunter (2025-) #7",
+      "url": "https://readcomicsonline.ru/comic/absolute-martian-manhunter-2025/7",
+      "date": "24 Dec. 2025",
+      "checked": false,
+      "added_ts": 1767124108513
     }
   ]
 }
