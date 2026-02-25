@@ -501,22 +501,80 @@
       "checked": false,
       "added_ts": 1767124108513,
       "moved_to_all_ts": 1768931502276
-    }
-  ],
-  "new_chapters": [
+    },
     {
       "title": "Absolute Superman (2024-) #15",
       "url": "https://readcomicsonline.ru/comic/absolute-superman-2024/15",
       "date": "07 Jan. 2026",
       "checked": false,
-      "added_ts": 1768931502276
+      "added_ts": 1768931502276,
+      "moved_to_all_ts": 1771989720897
     },
     {
       "title": "Absolute Green Lantern (2025-) #10",
       "url": "https://readcomicsonline.ru/comic/absolute-green-lantern-2025/10",
       "date": "07 Jan. 2026",
       "checked": false,
-      "added_ts": 1768931502276
+      "added_ts": 1768931502276,
+      "moved_to_all_ts": 1771989720897
+    }
+  ],
+  "new_chapters": [
+    {
+      "title": "Absolute Batman (2024-) #17",
+      "url": "https://readcomicsonline.ru/comic/absolute-batman-2024/17",
+      "date": "18 Feb. 2026",
+      "checked": false,
+      "added_ts": 1771989720897
+    },
+    {
+      "title": "Absolute Batman (2024-) #16",
+      "url": "https://readcomicsonline.ru/comic/absolute-batman-2024/16",
+      "date": "28 Jan. 2026",
+      "checked": false,
+      "added_ts": 1771989720897
+    },
+    {
+      "title": "Absolute Wonder Woman (2024-) #Annual 2026",
+      "url": "https://readcomicsonline.ru/comic/absolute-wonder-woman-2024/Annual2026",
+      "date": "11 Feb. 2026",
+      "checked": false,
+      "added_ts": 1771989720897
+    },
+    {
+      "title": "Absolute Wonder Woman (2024-) #16",
+      "url": "https://readcomicsonline.ru/comic/absolute-wonder-woman-2024/16",
+      "date": "28 Jan. 2026",
+      "checked": false,
+      "added_ts": 1771989720897
+    },
+    {
+      "title": "Absolute Superman (2024-) #16",
+      "url": "https://readcomicsonline.ru/comic/absolute-superman-2024/16",
+      "date": "04 Feb. 2026",
+      "checked": false,
+      "added_ts": 1771989720897
+    },
+    {
+      "title": "Absolute Flash (2025-) #11",
+      "url": "https://readcomicsonline.ru/comic/absolute-flash-2025/11",
+      "date": "28 Jan. 2026",
+      "checked": false,
+      "added_ts": 1771989720897
+    },
+    {
+      "title": "Absolute Martian Manhunter (2025-) #8",
+      "url": "https://readcomicsonline.ru/comic/absolute-martian-manhunter-2025/8",
+      "date": "28 Jan. 2026",
+      "checked": false,
+      "added_ts": 1771989720897
+    },
+    {
+      "title": "Absolute Green Lantern (2025-) #11",
+      "url": "https://readcomicsonline.ru/comic/absolute-green-lantern-2025/11",
+      "date": "04 Feb. 2026",
+      "checked": false,
+      "added_ts": 1771989720897
     }
   ]
 }
