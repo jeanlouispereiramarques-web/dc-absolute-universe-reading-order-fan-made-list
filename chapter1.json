@@ -677,22 +677,23 @@
       "checked": false,
       "added_ts": 1776440457145,
       "moved_to_all_ts": 1777982342167
-    }
-  ],
-  "new_chapters": [
+    },
     {
       "title": "Absolute Wonder Woman (2024-) #19",
       "url": "https://readcomicsonline.ru/comic/absolute-wonder-woman-2024/19",
       "date": "22 Apr. 2026",
       "checked": false,
-      "added_ts": 1777982342167
+      "added_ts": 1777982342167,
+      "moved_to_all_ts": 1785027223147
     },
     {
       "title": "Absolute Flash (2025-) #14",
       "url": "https://readcomicsonline.ru/comic/absolute-flash-2025/14",
       "date": "22 Apr. 2026",
       "checked": false,
-      "added_ts": 1777982342167
+      "added_ts": 1777982342167,
+      "moved_to_all_ts": 1785027223147
     }
-  ]
+  ],
+  "new_chapters": []
 }
